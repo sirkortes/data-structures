@@ -29,8 +29,6 @@ var Stack = function() {
     return count;
   };
 
-  someInstance.storage = storage;
-
   return someInstance;
 
 };
